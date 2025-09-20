@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:20-09-2025
+## Register Number:2501957
+## Name:MUHAMMAD ASJAD E
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,37 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+
+
+
+
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+
+
+
+
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+
+
+
+
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+
+<ul type="circle">
+  <li>Soil Health Card Scheme (Govt. of India):→<a href="https://soilhealth.dac.gov.in">https://soilhealth.dac.gov.in</a></li>
+  <li>WeatherAPI (easy developer API):→<a href="https://www.weatherapi.com">https://www.weatherapi.com</a></li>
+  <li>PlantVillage Dataset (pest & disease images):→<a href="https://plantvillage.psu.edu">https://plantvillage.psu.edu</a></li>
+  <li>NABARD Reports:→<a href="https://www.nabard.org">https://www.nabard.org</a></li>
+  <li>Google Cloud Translation API:→<a href="https://cloud.google.com/translate">https://cloud.google.com/translate"</a></li>
+  <li>eNAM (National Agricultural Market): →<a href="https://enam.gov.in">https://enam.gov.in</a></li>
+</ul>
+
+
+
