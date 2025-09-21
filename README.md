@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:20-09-2025
 ## Register Number:25013957
-## Name:MUHAMMAD ASJAD E
+## Name:MUHAMMAD ASJAD.E
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -93,7 +93,75 @@ Benefit: Farmers get financial support and resources they often miss.</li>
 <h1>Innovation</h1>
 <p>The innovation made is not some regular greater accessibility and adoption across rural areas it is a  change of pace made for farmers of our country to yield a more profitable growth than those years  where there were no technologies,our innovation Saves 15–20% of crops,and makes faster action,Reduces crop loss, ensures timely harvest</p>
 
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Extended FarmFlow Chart</title>
+<style>
+body{background:#fff;font-family:Arial,Helvetica,sans-serif;color:#222;margin:20px}
+h1{text-align:center;font-size:22px;margin-bottom:20px}
+svg{width:100%;height:auto}
+rect{fill:#e0f2fe;stroke:#0284c7;stroke-width:2;rx:8;ry:8}
+text{text-anchor:middle;font-size:14px;dominant-baseline:middle;fill:#000}
+path{stroke:#333;stroke-width:2;fill:none;marker-end:url(#arrow)}
+</style>
+</head>
+<body>
+<h1>Extended FarmFlow — Flowchart</h1>
+<svg viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="5" orient="auto">
+<path d="M0 0 L10 5 L0 10 z" fill="#333"/>
+</marker>
+</defs>
 
+
+<!-- Inputs -->
+<rect x="150" y="30" width="200" height="50"/>
+<text x="250" y="55">Farmer Inputs</text>
+
+
+<rect x="450" y="30" width="200" height="50"/>
+<text x="550" y="55">Retailers / Suppliers</text>
+
+
+<rect x="750" y="30" width="200" height="50"/>
+<text x="850" y="55">Govt / Market Data</text>
+
+
+<!-- AI Engine -->
+<rect x="350" y="150" width="300" height="70"/>
+<text x="500" y="185">AI Advisory Engine</text>
+
+
+<!-- Outputs -->
+<rect x="100" y="320" width="200" height="50"/>
+<text x="200" y="345">Weather & Alerts</text>
+
+
+<rect x="400" y="320" width="200" height="50"/>
+<text x="500" y="345">Fertilizer & Crop Advice</text>
+
+
+<rect x="700" y="320" width="200" height="50"/>
+<text x="800" y="345">Market Prices & Buyers</text>
+
+
+<!-- Arrows Inputs to Engine -->
+<path d="M250 80 L500 150"/>
+<path d="M550 80 L500 150"/>
+<path d="M850 80 L650 150"/>
+
+
+<!-- Engine to Outputs -->
+<path d="M500 220 L200 320"/>
+<path d="M500 220 L500 320"/>
+<path d="M500 220 L800 320"/>
+</svg>
+</body>
+</html>
 
 ## Technical Approach
 
