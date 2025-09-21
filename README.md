@@ -93,7 +93,7 @@ Benefit: Farmers get financial support and resources they often miss.</li>
 <h1>Innovation</h1>
 <p>The innovation made is not some regular greater accessibility and adoption across rural areas it is a  change of pace made for farmers of our country to yield a more profitable growth than those years  where there were no technologies,our innovation Saves 15–20% of crops,and makes faster action,Reduces crop loss, ensures timely harvest</p>
 
-
+<h1>Flowchart that EXPlains our Project</h1>
 <img width="1648" height="858" alt="Screenshot 2025-09-21 114413" src="https://github.com/user-attachments/assets/7ff258ad-cf3b-4b64-9f64-dd54730bf77f" />
 
 
