@@ -93,11 +93,10 @@ Benefit: Farmers get financial support and resources they often miss.</li>
 <h1>Innovation</h1>
 <p>The innovation made is not some regular greater accessibility and adoption across rural areas it is a  change of pace made for farmers of our country to yield a more profitable growth than those years  where there were no technologies,our innovation Saves 15–20% of crops,and makes faster action,Reduces crop loss, ensures timely harvest</p>
 
-<!doctype html>
-<html lang="en">
+
+<html>
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
+
 <title>Extended FarmFlow Chart</title>
 <style>
 body{background:#fff;font-family:Arial,Helvetica,sans-serif;color:#222;margin:20px}
