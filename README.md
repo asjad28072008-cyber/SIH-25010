@@ -94,57 +94,8 @@ Benefit: Farmers get financial support and resources they often miss.</li>
 <p>The innovation made is not some regular greater accessibility and adoption across rural areas it is a  change of pace made for farmers of our country to yield a more profitable growth than those years  where there were no technologies,our innovation Saves 15–20% of crops,and makes faster action,Reduces crop loss, ensures timely harvest</p>
 
 
-<h1 style="text-align:center;font-size:22px;margin-bottom:20px">Simple FarmFlow — Flowchart</h1>
-<svg style="width:100%;height:auto" viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="5" orient="auto">
-<path d="M0 0 L10 5 L0 10 z" fill="#333"/>
-</marker>
-</defs>
+<img width="1648" height="858" alt="Screenshot 2025-09-21 114413" src="https://github.com/user-attachments/assets/7ff258ad-cf3b-4b64-9f64-dd54730bf77f" />
 
-
-<!-- Inputs -->
-<rect style="fill:#4837b3ac;stroke:#770e5f72;stroke-width:2;rx:8;ry:8" x="150" y="30" width="200" height="50"/>
-<text style="text-anchor:middle;font-size:14px;dominant-baseline:middle;fill:#000" x="250" y="55">Farmer Inputs</text>
-
-
-<rect style="fill:#4837b3ac;stroke:#770e5f72;stroke-width:2;rx:8;ry:8" x="450" y="30" width="200" height="50"/>
-<text style="text-anchor:middle;font-size:14px;dominant-baseline:middle;fill:#000" x="550" y="55">Retailers / Suppliers</text>
-
-
-<rect style="fill:#4837b3ac;stroke:#770e5f72;stroke-width:2;rx:8;ry:8" x="700" y="30" width="200" height="50"/>
-<text style="text-anchor:middle;font-size:14px;dominant-baseline:middle;fill:#000" x="800" y="55">Govt / Market Data</text>
-
-
-<!-- AI Engine -->
-<rect style="fill:#4837b3ac;stroke:#770e5f72;stroke-width:2;rx:8;ry:8" x="350" y="150" width="300" height="70"/>
-<text style="text-anchor:middle;font-size:14px;dominant-baseline:middle;fill:#000" x="500" y="185">AI Advisory Engine</text>
-
-
-<!-- Outputs -->
-<rect style="fill:#4837b3ac;stroke:#770e5f72;stroke-width:2;rx:8;ry:8" x="100" y="320" width="200" height="50"/>
-<text style="text-anchor:middle;font-size:14px;dominant-baseline:middle;fill:#000" x="200" y="345">Weather & Alerts</text>
-
-
-<rect style="fill:#4837b3ac;stroke:#770e5f72;stroke-width:2;rx:8;ry:8" x="400" y="320" width="200" height="50"/>
-<text style="text-anchor:middle;font-size:14px;dominant-baseline:middle;fill:#000" x="500" y="345">Fertilizer & Crop Advice</text>
-
-
-<rect style="fill:#4837b3ac;stroke:#770e5f72;stroke-width:2;rx:8;ry:8" x="700" y="320" width="200" height="50"/>
-<text style="text-anchor:middle;font-size:14px;dominant-baseline:middle;fill:#000" x="800" y="345">Market Prices & Buyers</text>
-
-
-<!-- Arrows Inputs to Engine -->
-<path style="stroke:#0c0c0c;stroke-width:2;fill:none;marker-end:url(#arrow)" d="M250 80 L500 150"/>
-<path style="stroke:#0c0c0c;stroke-width:2;fill:none;marker-end:url(#arrow)" d="M550 80 L500 150"/>
-<path style="stroke:#0c0c0c;stroke-width:2;fill:none;marker-end:url(#arrow)" d="M850 80 L650 150"/>
-
-
-<!-- Engine to Outputs -->
-<path style="stroke:#0c0c0c;stroke-width:2;fill:none;marker-end:url(#arrow)" d="M500 220 L200 320"/>
-<path style="stroke:#0c0c0c;stroke-width:2;fill:none;marker-end:url(#arrow)" d="M500 220 L500 320"/>
-<path style="stroke:#0c0c0c;stroke-width:2;fill:none;marker-end:url(#arrow)" d="M500 220 L800 320"/>
-</svg>
 
 ## Technical Approach
 
